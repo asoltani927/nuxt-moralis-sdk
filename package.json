@@ -1,6 +1,6 @@
 {
   "name": "nuxt-moralis-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Nuxt components and hooks for your Moralis project",
   "main": "module.js",
   "repository": "git@github.com:asoltani927/nuxt-moralis-sdk.git",
