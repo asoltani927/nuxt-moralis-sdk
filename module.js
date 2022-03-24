@@ -13,9 +13,9 @@ export default function(moduleOptions) {
   
   // add the debug plugin
   this.addPlugin({
-    src: resolve(__dirname, 'moralis.js'),
+    src: resolve(__dirname, 'plugins/moralis.js'),
     // ** NOTE: we now use namespace here: **
-    fileName: join(namespace, 'moralis.js'),
+    fileName: join(namespace, 'plugins/moralis.js'),
     options // just pass through the options object
   })
 }
