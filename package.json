@@ -8,5 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "moralis": "^1.5.5"
+  },
+  "devDependencies": {
+    "@walletconnect/web3-provider": "^1.7.5",
+    "@web3auth/web3auth": "^0.6.3",
+    "magic-sdk": "^8.1.0"
   }
 }
